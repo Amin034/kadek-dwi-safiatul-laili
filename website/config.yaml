@@ -85,21 +85,21 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
+    - degree: "SD"
+      branch:
+      university: "SD negeri 1 sememu"
+      startedyear: "2010"
+      graduation: "2016"
+    - degree: "mts"
       branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
+      university: "Mts SA Al-munir"
+      startedyear: "2019"
+      graduation: "2020"
+    - degree: "SMK"
       branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+      university: "SMKN Pasirian"
+      startedyear: "2020"
+      graduation: "2021"
 
   # Projects
   disable_projects: false
